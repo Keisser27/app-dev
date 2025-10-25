@@ -1,4 +1,5 @@
-![Spirited Away Promotional Shot](https://cdn.britannica.com/34/253534-050-91CD727D/Promotional-shot-Spirited-Away-Hayao-Miyazaki-Studio-Ghibli.jpg)
+![Spirited Away Promotional Shot](![Promotional-shot-Spirited-Away-Hayao-Miyazaki-Studio-Ghibli](https://github.com/user-attachments/assets/7b6354bc-b124-4a00-9b9f-7e7a74af6990)
+)
 
 # Spirited Away :ghost:
 ## Animated by Studio Ghibli, Directed and Written by Hayao Miyazaki
